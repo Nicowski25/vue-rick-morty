@@ -1,0 +1,7 @@
+@use '/node_modules/bootstrap/scss/bootstrap.scss';
+
+$primary: #ededed;
+
+body {
+    background-color: $primary;
+}
